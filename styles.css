@@ -173,3 +173,30 @@ button:hover {
     background-color: #007BFF;
     color: #fff;
 }
+
+/* Adrian Custom Card */
+.Adrian-card {
+    background-color: #2c3e50;
+    color: #ecf0f1;
+    border: 2px solid #1abc9c;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.Adrian-card h2 {
+    color: #1abc9c;
+}
+
+.Adrian-card .bio {
+    color: #bdc3c7;
+}
+
+.Adrian-card button {
+    background-color: #1abc9c;
+    color: #2c3e50;
+    font-weight: bold;
+}
+
+.Adrian-card button:hover {
+    background-color: #16a085;
+    color: #ffffff;
+}
